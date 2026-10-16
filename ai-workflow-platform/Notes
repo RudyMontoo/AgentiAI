@@ -1,0 +1,3 @@
+Async Execution Engine = a system component that runs tasks without blocking
+the main flow, letting multiple operations progress concurrently instead of
+waiting one-by-one.
